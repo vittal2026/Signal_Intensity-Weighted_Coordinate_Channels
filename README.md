@@ -160,9 +160,4 @@ When reporting an issue, please provide:
 
 If you have ideas for new features or improvements, please open an issue with the "enhancement" label. Clearly describe the proposed feature and its potential benefits.
 
-## License
-
-This project is licensed under the [LICENSE file] (link to license file if available).
-
----
 **End of README**
